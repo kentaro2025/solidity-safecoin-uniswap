@@ -1,0 +1,14 @@
+{
+    "SafeCoin": {
+        "eth_main": {
+            "address": "0x2a939b2D24d5b8315D08b98fB4BC973C5A7DA236",
+            "deployer": "0x90e92EA3a9D9eCb436DbdD4933baE11Dca1e9dF0",
+            "datetime": "2025/03/19 09:11:41",
+            "args": [
+                "Safe Coin",
+                "SAFE",
+                100000000
+            ]
+        }
+    }
+}
